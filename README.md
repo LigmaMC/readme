@@ -33,10 +33,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Project Ligma</h3>
+  <h3 align="center">Ligma Bot</h3>
 
   <p align="center">
-    More than a Minecraft Plugin
+    More than a Discord Bot
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
